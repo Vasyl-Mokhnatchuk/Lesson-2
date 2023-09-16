@@ -10,6 +10,5 @@ name: "Vasyl",
 surname: "Mokhnatchuk",
 age: 17,
 home: "Ukraine",
-hobby: "Table tennis"
 }
 console.table(me)
