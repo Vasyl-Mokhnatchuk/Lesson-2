@@ -13,4 +13,4 @@ let info = {
     Home: 'Ukraine, Ivano-Frankivsk',
 };
 
-console.table([info]);
+console.table([info])
