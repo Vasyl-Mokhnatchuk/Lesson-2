@@ -1,5 +1,5 @@
 let test1 = 1234;
-  test2 = 'Привіт!';
+  test2 = 'Hello!';
   test3 = 'underfinded';
   test4 = false;
   test5 = NaN;
